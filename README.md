@@ -1,4 +1,4 @@
-#Smart Energy Optimization model using Xgboost
+# Smart Energy Optimization model using Xgboost
 
 machine learning project that predicts appliance energy consumption and provides smart energy optimization suggestions using XGBoost and Streamlit.
 
